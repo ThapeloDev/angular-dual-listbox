@@ -151,6 +151,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dual-listbox"
+    }
+  },
+  "defaultProject": "dual-listbox",
+  "cli": {
+    "analytics": false
+  }
 }
